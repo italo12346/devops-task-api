@@ -81,8 +81,8 @@ curl http://localhost:8080/health
 
 - [x] API REST com CRUD completo
 - [x] Testes unitários e de integração
-- [ ] Dockerfile (build multi-stage)
-- [ ] GitHub Actions rodando testes a cada push
+- [x] Dockerfile (build multi-stage)
+- [x] GitHub Actions rodando testes a cada Push e Pull Request
 - [ ] Análise de qualidade com SonarQube
 - [ ] Varredura de vulnerabilidades com Trivy
 - [ ] Build e publicação da imagem no Docker Hub
