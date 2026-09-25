@@ -85,6 +85,8 @@ curl http://localhost:8080/health
 - [x] GitHub Actions rodando testes a cada Push e Pull Request
 - [ ] Análise de qualidade com SonarQube
 - [ ] Varredura de vulnerabilidades com Trivy
+- [x] Análise de qualidade com SonarQube
+- [x] Varredura de vulnerabilidades com Trivy
 - [ ] Build e publicação da imagem no Docker Hub
 - [ ] Deploy automatizado em AWS/EC2
 - [ ] Health check pós-deploy
